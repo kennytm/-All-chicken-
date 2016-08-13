@@ -1,10 +1,13 @@
 # Marriage D'Amour → 雞，全部都係雞
 
+[![CC-BY-4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
 * 曲：[Marriage D'Amour](https://musescore.com/user/153958/scores/154629) 《夢中的婚禮》 
 * 詞：[秋風掃落葉 @ 香港高登](http://forum.hkgolden.com/view.aspx?message=6497824)
 * 聲：Alex
+* 片：<https://youtu.be/Bv7hIzHxGdY>
 
-```
+```c
 "[[inpt PHON]]_g1AYIH, ~tsUWn=bOW=dOW=hAY=g1AYIH[[inpt TEXT]], created with macOS Speech Synthesizer."
 
 [[slnc 500]]
